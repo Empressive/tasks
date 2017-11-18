@@ -17,5 +17,6 @@ $ source ./env/bin/activate
 ```
 (.env)$ python async_download.py
 (.env)$ python decorators.py
+(.env)$ python context_manager.py
 ```
 
