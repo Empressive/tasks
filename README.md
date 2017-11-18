@@ -16,5 +16,6 @@ $ source ./env/bin/activate
 #### Launching
 ```
 (.env)$ python async_download.py
+(.env)$ python decorators.py
 ```
 
